@@ -1,0 +1,7 @@
+id = "kanagawa-future-dim-theme"
+name = "Kanagawa Future Dim"
+version = "0.0.1"
+schema_version = 1
+authors = ["hameji"]
+description = "A pale, soft, futuristic Kanagawa-inspired theme family for Zed."
+repository = "https://github.com/hameji/zed-kanagawa-future-dim"
