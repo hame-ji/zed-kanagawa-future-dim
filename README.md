@@ -1,13 +1,10 @@
-# Kanagawa Future Dim
+# Sumi Future
 
-A pale, soft, futuristic Kanagawa-inspired theme family for Zed.
+A pale, soft, futuristic theme family for Zed.
 
 Included theme families:
 
-- Kanagawa Future Dim Olive Gold
-- Kanagawa Future Dim Violet Ash
-- Kanagawa Future Dim Indigo Success
-- Kanagawa Future Dim Sage Mist
+- Sumi Future
 
 ## Local development install
 
@@ -23,7 +20,7 @@ Then select this extension folder, not just the `themes/` folder.
 
 Inspired by [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by rebelot.
 
-This project is not affiliated with or endorsed by the original Kanagawa theme maintainers.
+This project is not affiliated with or endorsed by the original theme maintainers.
 
 ## License
 

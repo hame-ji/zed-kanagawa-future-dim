@@ -1,7 +1,7 @@
-id = "kanagawa-future-dim-theme"
-name = "Kanagawa Future Dim"
+id = "sumi-future-theme"
+name = "Sumi Future"
 version = "0.0.1"
 schema_version = 1
 authors = ["hame-ji"]
-description = "A pale, soft, futuristic Kanagawa-inspired theme family for Zed."
-repository = "https://github.com/hame-ji/zed-kanagawa-future-dim"
+description = "A pale, soft, futuristic theme family for Zed."
+repository = "https://github.com/hame-ji/zed-sumi-future-theme"
