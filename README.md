@@ -2,11 +2,12 @@
 
 A pale, soft, futuristic Kanagawa-inspired theme family for Zed.
 
-Included themes:
+Included theme families:
 
-- Kanagawa Future Dim
-- Kanagawa Future Dim Ume
-- Kanagawa Future Dim Ao
+- Kanagawa Future Dim Olive Gold
+- Kanagawa Future Dim Violet Ash
+- Kanagawa Future Dim Indigo Success
+- Kanagawa Future Dim Sage Mist
 
 ## Local development install
 
